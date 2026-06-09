@@ -38,5 +38,5 @@ python3 attendance_checker.py
 
 ## Video Recording
 
-![YouTube Explaination](https://youtu.be/ozuL5F8Vlz8)
-![Google Drive Link](https://drive.google.com/file/d/1uZDBO7TAP6gGmpga4SQPsSBzKcXc7Qem/view?usp=sharing)
+- [YouTube Explaination](https://youtu.be/ozuL5F8Vlz8)
+- [Google Drive Link](https://drive.google.com/file/d/1uZDBO7TAP6gGmpga4SQPsSBzKcXc7Qem/view?usp=sharing)
