@@ -35,3 +35,8 @@ python3 attendance_checker.py
 
 - `bash`, `sed`, `tar` (standard on Linux/macOS)
 - `python3` to actually run the generated attendance checker
+
+## Video Recording
+
+![YouTube Explaination](https://youtu.be/ozuL5F8Vlz8)
+![Google Drive Link](https://drive.google.com/file/d/1uZDBO7TAP6gGmpga4SQPsSBzKcXc7Qem/view?usp=sharing)
