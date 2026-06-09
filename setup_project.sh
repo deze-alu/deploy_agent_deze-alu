@@ -164,6 +164,11 @@ set_attendance_thresholds() {
       return
     fi
 
+    if (( warning_threshold > 100 || failure_threshold > 100 )); then
+      err "Invalid input. Thresholds cannot exceed 100%. Using default values."
+      return
+    fi
+
     # Update config.json
     if [[ -f "$config_path" ]]; then
       sed -i.bak -E "s/\"warning\": [0-9]+/\"warning\": $warning_threshold/" "$config_path"
